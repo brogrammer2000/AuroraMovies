@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AuroraMovies
+
+AuroraMovies is a modern movie discovery web application that allows users to browse, search, and explore movie information through a clean and responsive interface.
+
+The project demonstrates full-stack web development skills including API integration, UI design, and structured frontend architecture.
+
+## Features
+
+* Search for movies by title
+* Browse popular and trending movies
+* View detailed information including ratings, release date, and overview
+* Responsive UI for desktop and mobile devices
+* Dynamic data fetching from movie APIs
+
+## Tech Stack
+
+* **Frontend:** Next.js, JavaScript
+* **API Integration:** Movie database API
+* **Version Control:** Git & GitHub
+
+## Project Goals
+
+This project was built to demonstrate:
+
+* API integration and asynchronous data handling
+* Frontend architecture and UI design
+* Clean, maintainable code structure
+* Practical web development workflow using Git
 
 ## Getting Started
 
-First, run the development server:
+Clone the repository:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/brogrammer2000/AuroraMovies.git
+cd AuroraMovies
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open `index.html` in your browser to run the project locally.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Future Improvements
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+* User authentication and watchlists
+* Movie recommendations based on user preferences
+* Advanced filtering and sorting
+* Backend integration for persistent data
 
-## Learn More
+## Author
 
-To learn more about Next.js, take a look at the following resources:
+**brogrammer2000**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+GitHub: https://github.com/brogrammer2000
