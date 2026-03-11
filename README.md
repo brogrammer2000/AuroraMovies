@@ -2,7 +2,7 @@
 
 AuroraMovies is a modern movie discovery web application that allows users to browse, search, and explore movie information through a clean and responsive interface.
 
-The project demonstrates full-stack web development skills including API integration, UI design, and structured frontend architecture.
+The project demonstrates web development skills including API integration, UI design, and structured frontend architecture.
 
 ## Features
 
@@ -36,7 +36,14 @@ git clone https://github.com/brogrammer2000/AuroraMovies.git
 cd AuroraMovies
 ```
 
-Open `index.html` in your browser to run the project locally.
+Get a free api key from themoviedb.org
+Paste the api key in .env
+
+```bash
+npm install
+npm run dev
+```
+
 
 ## Future Improvements
 
